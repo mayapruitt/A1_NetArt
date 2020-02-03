@@ -7,10 +7,7 @@ If you want to run the project locally, follow the following steps:
 
 1. Clone this github folder to your preferred location on your computer. 
 2. Use the Terminal to cd to this project. 
-3. Start a local server using the command:
-'''console
-python -m SimpleHTTPServer
-'''
+3. Start a local server using the command: python -m SimpleHTTPServer
 4. Go to your browser and type: http://localhost:8000 
 
 ## Process:
