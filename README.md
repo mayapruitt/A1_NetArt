@@ -22,7 +22,7 @@ I created two separate .html files, and the .css file only applies to "page2.htm
 
 My inspiration came from all the tutorials I have viewed throughout my time at ITP, both good and bad. Though I viewed this after making the website, it is very much in the style a la Joey's [markdown tutorial.](https://www.youtube.com/watch?v=8cpwhFHE6hc&list=PLqN0DSYPddBT4-meaRliR3lxVon0IFIza) I don't know if this will be helpful to anyone but me, but I like that it directly matches HTML tags to their visual outcome. This is how I best learn coding. 
 
-My initial hurdle was getting acclimated to the git tracking process. I have attempted this so many times before. SOmething about using the terminal and ssh keys made it seem very daunting. After doing it repeatedly making this project though, I no longer feel that way. In fact, it feels easy now! And incredibly useful in tracking changes over time. 
+My initial hurdle was getting acclimated to the git tracking process. I have attempted this so many times before. Something about using the terminal and ssh keys made it seem very daunting. After doing it repeatedly making this project though, I no longer feel that way. In fact, it feels easy now! And incredibly useful in tracking changes over time. 
 
 ### Deploying to glitch:
 These are the steps I took to deploy my website to glitch. 
